@@ -17,10 +17,10 @@ function CompanyCard({ companyName, imageSrc, description }) {
 
       {/* Buttons */}
       <div className="flex gap-2 mb-2">
-        <button className="bg-blue-700 text-white text-xs px-3 py-1 rounded-full hover:bg-blue-800 transition">
+        <button className="bg-[#2c3e50] text-white text-xs px-3 py-1 rounded-full hover:bg-blue-800 transition">
           Send
         </button>
-        <button className="bg-red-500 text-white text-xs px-3 py-1 rounded-full hover:bg-red-600 transition">
+        <button className="bg-[#2c3e50] text-white text-xs px-3 py-1 rounded-full hover:bg-red-600 transition">
           Track
         </button>
       </div>
