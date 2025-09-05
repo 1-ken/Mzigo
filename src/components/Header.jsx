@@ -12,13 +12,13 @@ function Header() {
           <img 
             src={Logo}
             alt="logo"
-            className="h-8 sm:h-10 md:h-12 w-auto object-contain cursor-pointer"
+            className="h-12 sm:h-14 md:h-16 w-auto object-contain cursor-pointer"
           />
         </div>
         
         {/* Account Icon */}
         <div>
-          <MdAccountCircle className="text-3xl sm:text-4xl md:text-5xl text-gray-700 cursor-pointer" />
+          <MdAccountCircle className="text-4xl sm:text-4xl md:text-5xl text-gray-700 cursor-pointer" />
         </div>
       </header>
     </div>
