@@ -1,9 +1,13 @@
-
+import Header from './components/Header'
+import Hero from './components/Hero'
+import Landingpage from './pages/Landingpage'
 function App() {
 
   return (
     <>
-    <h1 className="text-3xl underline">hello from heere</h1>    
+    <Header/>
+    <Hero/>
+    <Landingpage/>
     </>
   )
 }
