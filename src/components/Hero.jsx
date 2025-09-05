@@ -15,7 +15,7 @@ function Hero() {
         <button className="bg-[#2c3e50] text-white font-semibold px-6 py-3 rounded-full hover:bg-[#1a252f] transition">
           Send Mzigo
         </button>
-        <button className="bg-[#f15a5a] text-white font-semibold px-6 py-3 rounded-full hover:bg-[#d84343] transition">
+        <button className="bg-[#2c3e50] text-white font-semibold px-6 py-3 rounded-full hover:bg-[#d84343] transition">
           Track mzigo
         </button>
       </div>
